@@ -3,3 +3,6 @@
 *.log
 *.aux
 *.pdf
+*.bbl
+*.blg
+*.xml
